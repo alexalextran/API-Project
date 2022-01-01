@@ -18,7 +18,7 @@ main()
 
 function showUserPosts(id) {
     localStorage.setItem("id", id)
-    window.location.href = "user.html"
+    window.location.href = "https://alexalextran.github.io/user.html"
     console.log(id)
 }
 
