@@ -46,6 +46,6 @@ function postHTML(post){
   `
 }
 
-function
+
 
 renderPosts(id)
